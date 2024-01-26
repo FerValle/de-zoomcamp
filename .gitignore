@@ -1,0 +1,13 @@
+.venv/
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
+**logs/
+**.env
+**__pycache__/
+.history
+**/ny_taxi_postgres_data/*
+*.txt
+*.csv
+*.csv.gz
